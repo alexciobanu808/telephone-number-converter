@@ -1,0 +1,10 @@
+C:\Users\alexa\Documents\Visual Studio 2019\TelephoneNumberConverter\bin\Debug\TelephoneNumberConverter.exe.config
+C:\Users\alexa\Documents\Visual Studio 2019\TelephoneNumberConverter\bin\Debug\TelephoneNumberConverter.exe
+C:\Users\alexa\Documents\Visual Studio 2019\TelephoneNumberConverter\bin\Debug\TelephoneNumberConverter.pdb
+C:\Users\alexa\Documents\Visual Studio 2019\TelephoneNumberConverter\obj\Debug\TelephoneNumberConverter.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\Visual Studio 2019\TelephoneNumberConverter\obj\Debug\TelephoneNumberConverter.Form1.resources
+C:\Users\alexa\Documents\Visual Studio 2019\TelephoneNumberConverter\obj\Debug\TelephoneNumberConverter.Properties.Resources.resources
+C:\Users\alexa\Documents\Visual Studio 2019\TelephoneNumberConverter\obj\Debug\TelephoneNumberConverter.csproj.GenerateResource.cache
+C:\Users\alexa\Documents\Visual Studio 2019\TelephoneNumberConverter\obj\Debug\TelephoneNumberConverter.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\Visual Studio 2019\TelephoneNumberConverter\obj\Debug\TelephoneNumberConverter.exe
+C:\Users\alexa\Documents\Visual Studio 2019\TelephoneNumberConverter\obj\Debug\TelephoneNumberConverter.pdb
